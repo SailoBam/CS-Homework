@@ -11,7 +11,7 @@ while (true) {
         i = Convert.ToInt16(input);
         Console.WriteLine("You entered "+ i);
         } catch (Exception myExp) {
-            Console.WriteLine("Could Not convert the input to an integer");
+            Console.WriteLine("Could not convert the input to an integer");
         } 
 }
 
